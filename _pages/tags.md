@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Archive
-description: "An archive of posts sorted by tag."
+title: 标签
+description: "标签系列"
 permalink: /tags.html
 ---
 
