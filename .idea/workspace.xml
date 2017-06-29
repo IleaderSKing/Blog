@@ -1,46 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95c031f7-933d-42dc-b9ca-417440e7a179" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009-08-06-edge-case-no-body-content.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009-09-05-edge-case-no-yaml-title.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009-10-05-edge-case-title-should-not-overflow-the-content-area.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-01-08-post-chat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-02-05-post-notice.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-02-05-post-quote.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-06-02-post-video-youtube.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-08-05-post-image-linked.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-08-05-post-image-standard.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-08-06-post-image-linked-caption.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-08-07-post-image-caption.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010-09-10-post-twitter-embeds.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-15-layout-header-image-external.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-15-layout-header-image-horizontal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-15-layout-header-image-text-readability.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-15-layout-header-image-vertical.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-01-05-markup-title-with-markup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-01-05-markup-title-with-special-characters.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-01-09-markup-text-alignment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-01-10-markup-image-alignment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-01-11-markup-html-tags-and-formatting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-05-22-markup-more-images.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-16-markup-syntax-highlighting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-30-hello.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/halve-home-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/halve-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/halve.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post-image-halve-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash-image-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash-image-4.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home.png" afterPath="$PROJECT_DIR$/images/home.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-    </list>
+    <list default="true" id="95c031f7-933d-42dc-b9ca-417440e7a179" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +25,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="380">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -272,7 +233,7 @@
       <workItem from="1498749249940" duration="518000" />
       <workItem from="1498750813867" duration="15000" />
       <workItem from="1498750867781" duration="94000" />
-      <workItem from="1498750977634" duration="10824000" />
+      <workItem from="1498750977634" duration="11020000" />
     </task>
     <task id="LOCAL-00001" summary="更新主页">
       <created>1498751262495</created>
@@ -390,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15988000" />
+    <option name="totallyTimeSpent" value="16184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -660,8 +621,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="380">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding />
         </state>
       </provider>
