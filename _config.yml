@@ -2,7 +2,7 @@
 title: Eval0day7
 description: 个人博客
 url: https://eval0day7.github.io/Blog
-logo: logo.jpg                                       # Site logo
+logo: halve.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -34,7 +34,7 @@ google.plus:        Ting Jack
 twitter:            CN Storm
 #facebook:           username
 github:             Eval0day7
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:     8233019/t-eval0   from a "http://stackoverflow.com/users/8233019/t-eval0" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
