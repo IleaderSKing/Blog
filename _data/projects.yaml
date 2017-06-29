@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @Eval0day7
- Sign out
- Watch 7
-  Star 135
-  Fork 240 TaylanTatli/Halve
- Code  Issues 15  Pull requests 4  Projects 0  Wiki Insights
-Branch: master Find file Copy pathHalve/_data/projects.yaml
-54b6d94  on 31 May 2016
-@TaylanTatli TaylanTatli first commit
-1 contributor
-RawBlameHistory
-30 lines (24 sloc)  1.04 KB
 - title: Halve Jekyll Theme
   url: http://taylantatli.me/Halve
   image: http://taylantatli.me/Halve/images/halve-home-image.png
@@ -46,5 +27,3 @@ RawBlameHistory
   url: http://taylantatli.me/StartPage/
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
