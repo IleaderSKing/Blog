@@ -38,8 +38,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            <state relative-caret-position="171">
+              <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -233,7 +233,7 @@
       <workItem from="1498749249940" duration="518000" />
       <workItem from="1498750813867" duration="15000" />
       <workItem from="1498750867781" duration="94000" />
-      <workItem from="1498750977634" duration="1729000" />
+      <workItem from="1498750977634" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="更新主页">
       <created>1498751262495</created>
@@ -256,11 +256,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498752646165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新联系方式">
+      <created>1498752725804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498752725804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6893000" />
+    <option name="totallyTimeSpent" value="7267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -294,7 +301,8 @@
     <MESSAGE value="更新主页" />
     <MESSAGE value="更新注解" />
     <MESSAGE value="更新Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新Logo" />
+    <MESSAGE value="更新联系方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新联系方式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -417,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="171">
+          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding />
         </state>
       </provider>
