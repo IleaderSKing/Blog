@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "数据结构与算法（笔记）"
-excerpt: "线性表（一）"
+excerpt: "时间复杂度"
 categories:
   - 数据结构与算法
 tags:
