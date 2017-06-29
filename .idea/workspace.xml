@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95c031f7-933d-42dc-b9ca-417440e7a179" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" afterPath="$PROJECT_DIR$/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-05-29-halve-theme.md" afterPath="$PROJECT_DIR$/_posts/2016-05-29-halve-theme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -289,7 +287,7 @@
       <workItem from="1498749249940" duration="518000" />
       <workItem from="1498750813867" duration="15000" />
       <workItem from="1498750867781" duration="94000" />
-      <workItem from="1498750977634" duration="5427000" />
+      <workItem from="1498750977634" duration="5437000" />
     </task>
     <task id="LOCAL-00001" summary="更新主页">
       <created>1498751262495</created>
@@ -382,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498755872840</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="更新文章">
+      <created>1498756417182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1498756417182</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10591000" />
+    <option name="totallyTimeSpent" value="10601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -422,7 +427,8 @@
     <MESSAGE value="更新联系方式" />
     <MESSAGE value="更新Logo" />
     <MESSAGE value="更新文字" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新文字" />
+    <MESSAGE value="更新文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文章" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
