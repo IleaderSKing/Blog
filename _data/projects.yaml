@@ -1,11 +1,11 @@
-- title: Halve Jekyll Theme
+- title: Eval0day7's Blog
   url: https://github.com/Eval0day7/Blog
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: true
 
-- title: Moon Jekyll Theme
-  url: https://github.com/Eval0day7/Blog
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Eleme WebApp SPA
+  url: https://github.com/Eval0day7/StudyEleme
+  image: https://github.com/Eval0day7/StudyEleme/blob/master/ProjectImages/eleme.png
   completed: true
 
 - title: Ramme Jekyll Theme
