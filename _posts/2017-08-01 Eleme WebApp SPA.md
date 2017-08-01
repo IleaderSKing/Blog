@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Vue实战之Eleme"
+excerpt: "Eleme webApp SPA"
+categories:
+  - Vue 2.0
+tags:
+  - Vue 2.0
+---
+
 #### Eleme (饿了么移动端SPA)
 - **概述：**
      非常感谢[黄毅老师](https://github.com/ustbhuangyi/vue-sell)录制的实战视频，给刚入门Vue的人提供了很好的Vue进阶教程。
