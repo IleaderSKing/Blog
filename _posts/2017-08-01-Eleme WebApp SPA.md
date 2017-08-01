@@ -42,7 +42,19 @@ tags:
      - 小球飞入动画
      - 评论筛选
      - 等等
+- **安装：**
+- github:
+```
+ git clone https://github.com/Eval0day7/StudyEleme.git
 
+```
+- npm:
+
+```
+ npm install 
+
+ npm run dev    
+``` 
 - **总结：**
      -  了解了项目开发整个流程。
      - 设计稿高度还原移动端页面。
